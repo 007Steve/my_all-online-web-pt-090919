@@ -6,7 +6,7 @@ block_return_values =[]
 while 1 < collection.length 
 block_return_values <<
 yeild(collection[i])
-1 += 1
+i += 1
 end
 end 
 
